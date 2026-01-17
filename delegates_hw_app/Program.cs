@@ -1,4 +1,4 @@
-﻿namespace delegates_hw_app
+﻿namespace Task1
 {
     public delegate double Calc(double a, double b);
     public class Program
